@@ -34,6 +34,6 @@ document.addEventListener("DOMContentLoaded", function() {
 
     // Redirect to a link when the button is clicked
     payButton.addEventListener("click", function() {
-        window.location.href = "https://pay.pagamentoaqui.com/checkout/6e664f1f-e0a9-49cd-bc1d-a482a2718ce9"; // Substitua pelo seu link
+        window.location.href = "https://pay.pagamentoaqui.com/checkout/1db351b8-277c-4c90-8c27-d406eb07bb59"; // Substitua pelo seu link
     });
 });
